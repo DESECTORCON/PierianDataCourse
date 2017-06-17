@@ -1,0 +1,56 @@
+body{
+  background-color: #d1c740;
+
+}
+
+#welcomText{
+  color: #3a3d42;
+  border: 3px groove #3a3d42;
+}
+
+.WelcomDIV{
+  color: #4b6647;
+  background-color: #9b6196;
+  border: 2px double #6a56ff;
+}
+
+#helloP{
+  color: #64efe1;
+}
+
+#clickP{
+  color: #64d1ef;
+}
+
+#NAVERlink{
+  color: #64bcef;
+}
+
+#SITEs{
+  color: #ef64e8;
+  border: 2px double #9764ef;
+}
+
+.SiteLinkDIV2{
+  color: #b3e863;
+  border: 2px double #e8dd63;
+}
+
+#google{
+  color: #ff7723;
+  border: 1px groove #ff7723;
+}
+
+#naver{
+  color: #ff5e23;
+  border: 1px groove #ff5e23;
+}
+
+#yahoo{
+  color: #ff4b23;
+  border: 1px groove #ff4b23
+}
+
+span{
+  color: #64bcef;
+}
